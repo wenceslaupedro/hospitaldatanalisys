@@ -1,0 +1,11 @@
+Doctor_ID,Name,Department,Shift_Start,Shift_End,Available,Hospital
+D001,James Arnold,Cardiology,12:00,14:00,No,Hospital B
+D002,Courtney Hamilton,Emergency,08:00,17:00,Yes,Hospital A
+D003,Tara Bernard,Pediatrics,12:00,19:00,No,Hospital B
+D004,Oscar Evans,Cardiology,11:00,16:00,Yes,Hospital A
+D005,Anna Johnson,Cardiology,12:00,15:00,Yes,Hospital A
+D006,Jose Hoffman,Pediatrics,09:00,14:00,No,Hospital B
+D007,Jessica Cooper,Pediatrics,11:00,17:00,Yes,Hospital A
+D008,Stephanie Chavez,Cardiology,09:00,18:00,Yes,Hospital A
+D009,Theresa Dawson,Pediatrics,12:00,17:00,Yes,Hospital A
+D010,Marisa Johnson,Cardiology,11:00,15:00,No,Hospital A
